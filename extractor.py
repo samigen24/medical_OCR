@@ -67,3 +67,6 @@ pattern5 = "Refill:(.*)times"   # to extract only the number of refill
 
 match5 = re.findall(pattern5, text, flags=re.DOTALL)
 print(match5[0].strip())
+
+
+print(zdlvlznv;NXv;ZDv)
